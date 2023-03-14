@@ -4,7 +4,7 @@ PS5 inspired theme. Enjoy!
 Click the link below to see all my themes.
 https://github.com/dhrandy/dhrandy-RG35XX-Themes
 
-
+![ezgif-4-db5af7fa72-2](https://user-images.githubusercontent.com/6290176/225155868-1475856a-bb1c-4b5d-a323-b65e0dd4772c.gif)
 
 ## Installation - *This only works with Garlic OS
 *Only Works with Garlic OS 1.2.7
