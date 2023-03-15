@@ -5,7 +5,7 @@ Click the link below to see all my themes.
 https://github.com/dhrandy/dhrandy-RG35XX-Themes
 
 ![ezgif-1-ba0b181f80-2](https://user-images.githubusercontent.com/6290176/225178515-98d9db84-1b3f-49ce-a86b-81e839e91b59.gif)
-< /br>
+
 (The theme looks better than the compressed gif)
 
 ## Installation - *This only works with Garlic OS
