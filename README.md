@@ -36,6 +36,7 @@ No Artwork:
 
 ## Changelog
 3/14/23
+
 -Updated icons and a couple images to a little bit brighter blue to go with the overall theme better.
 
 3/14/23 
